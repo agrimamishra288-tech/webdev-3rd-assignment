@@ -109,6 +109,6 @@ This project can be deployed easily on **Netlify**:
 
 
 
-## 📌 Note
+## Note
 
 This project focuses on **core React concepts** and clean UI design rather than complex backend logic.
